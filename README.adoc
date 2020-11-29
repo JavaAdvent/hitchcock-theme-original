@@ -1,4 +1,4 @@
 = Hitchcock Original Plugin
 
-This is representing the currently up-to-date version 1.23 of the Wordpress Theme Hitchcock.
+This is representing the currently up-to-date version 2.0.2 of the Wordpress Theme Hitchcock.
 More information can be found here: https://wordpress.org/themes/hitchcock/
